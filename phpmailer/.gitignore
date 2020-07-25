@@ -1,0 +1,6 @@
+docs/phpdoc/
+test/message.txt
+test/testbootstrap.html
+test/*.pem
+build/
+vendor/
